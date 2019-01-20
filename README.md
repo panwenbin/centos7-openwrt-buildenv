@@ -4,7 +4,7 @@
 采用最小安装CentOS7，配置好网络
 
 ### 使用方法
-- 使用root权限执行脚本，正常情况执行完桌面就准备就绪了
+- 使用root权限执行脚本
 ```bash
 # curl -fsSL https://raw.githubusercontent.com/panwenbin/centos7-openwrt-buildenv/master/centos7-openwrt-buildenv.sh | sh
 ```
