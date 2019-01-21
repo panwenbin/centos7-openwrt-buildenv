@@ -1,4 +1,5 @@
 ## CentOS7加装openwrt编译环境
+发现[OpenWrt官网Docs](https://openwrt.org/docs/guide-user/additional-software/imagebuilder)中已经提供了
 
 ### 脚本适用
 采用最小安装CentOS7，配置好网络
